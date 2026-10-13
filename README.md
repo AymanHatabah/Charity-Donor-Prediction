@@ -33,7 +33,6 @@ Charity-Donor-Prediction/
     ├── test_census.csv                 # Test dataset
     └── requirements.txt                # Project dependencies
 
-
 ## ⚙️ Tech Stack
 Python
 
