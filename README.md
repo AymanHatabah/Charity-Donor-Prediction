@@ -32,17 +32,3 @@ Charity-Donor-Prediction/
     ├── census.csv                      # Raw dataset
     ├── test_census.csv                 # Test dataset
     └── requirements.txt                # Project dependencies
- ---
-
-## ⚙️ Tech Stack
-* Python
-* Scikit-Learn
-* Imbalanced-Learn (SMOTE)
-* Category Encoders
-* Pandas & NumPy & seaborn 
-* Streamlit
-
----
-
-## 👨‍💻 Author
-Developed as a complete production-ready Machine Learning project via Ayman Hatabah
