@@ -6,7 +6,7 @@ An end-to-end Machine Learning and web application project designed to predict w
 
 ## 🚀 Live Demo
 Experience the live application deployed on Streamlit Community Cloud:
-👉 **[View Live App](https://charity-donor-prediction-bsdzu3pfjeiumdaaei9fl.streamlit.app)**
+👉 [View Live App](https://charity-donor-prediction-bsdzu3pfjeiumdaaei9fl.streamlit.app)
 
 ---
 
@@ -32,19 +32,17 @@ Charity-Donor-Prediction/
     ├── census.csv                      # Raw dataset
     ├── test_census.csv                 # Test dataset
     └── requirements.txt                # Project dependencies
+---
 
 ## ⚙️ Tech Stack
-Python
+* Python
+* Scikit-Learn
+* Imbalanced-Learn (SMOTE)
+* Category Encoders
+* Pandas & NumPy & seaborn 
+* Streamlit
 
-Scikit-Learn
-
-Imbalanced-Learn (SMOTE)
-
-Category Encoders
-
-Pandas & NumPy & seaborn
-
-Streamlit
+---
 
 ## 👨‍💻 Author
-Developed as a complete production-ready Machine Learning project.
+Developed as a complete production-ready Machine Learning project via Ayman Hatabah
