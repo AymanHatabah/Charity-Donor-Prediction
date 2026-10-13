@@ -12,7 +12,10 @@ st.markdown("Enter the client's details below to predict if they are likely to d
 # 2. Load the Model and Business Threshold (Cached for performance)
 @st.cache_resource
 def load_model():
-    package = joblib.load('robust_donors_model_package.pkl')
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    model_path = os.path.join(current_dir, 'robust_donors_model_package.pkl')
+    
+    package = joblib.load(model_path)
     return package['model_pipeline'], package['business_threshold']
 
 model, threshold = load_model()
