@@ -6,7 +6,7 @@ An end-to-end Machine Learning and web application project designed to predict w
 
 ## 🚀 Live Demo
 Experience the live application deployed on Streamlit Community Cloud:
-👉 [View Live App](https://charity-donor-prediction-bsdzu3pfjeiumdaaei9fl.streamlit.app)
+👉 [View Live App](https://charity-donor-prediction-bsdzu3pufjeiumdaaei9fl.streamlit.app/)
 
 ---
 
